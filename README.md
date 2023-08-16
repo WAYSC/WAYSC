@@ -26,12 +26,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waysc&show_icons=true&locale=en&layout=compact" alt="waysc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waysc&show_icons=true&locale=en&layout=compact" alt="waysc" /></p>
 “waysc”
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waysc&show_icons=true&locale=en" alt="waysc" /></p>
- “waysc”
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waysc&" alt="waysc" /></p>
+“waysc”
 
 
