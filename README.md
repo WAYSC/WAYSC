@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meuky</h1>
 <h3 align="center">An AI Programmer from Beijing, China 👋</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waysc&label=Profile%20views&color=0e75b6&style=flat" alt="waysc" /> </p>
 
