@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  font-family: Arial, sans-serif;
-  color: #9a7ad4; /* 淡紫色 */
-}
-
-h1, h3 {
-  color: #9a7ad4; /* 淡紫色 */
-}
-
-/* 继续添加您的自定义样式 */
-
-</style>
-</head>
-<body>
-  
 <h1 align="center">Hi 👋, I'm Meuky</h1>
 <h3 align="center">An AI Programmer from Beijing, China 👋</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
@@ -37,6 +18,3 @@ h1, h3 {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waysc&show_icons=true&locale=en&layout=compact" alt="waysc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waysc&show_icons=true&locale=en" alt="waysc" /></p>
-
-</body>
-</html>
