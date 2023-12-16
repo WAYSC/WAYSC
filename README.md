@@ -1,5 +1,5 @@
 <h1 align="center"><span style="color:#9a7ad4">Hi 👋, I'm Meuky</span></h1>
-<h3 align="center"><span style="color:#9a7ad4">An AI Programmer from Beijing, China 👋</span></h3>
+<h3 align="center"><span style="color:#9a7ad4">An AI Programmer👋</span></h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waysc&label=<span style=&#34;color:#9a7ad4&#34;>Profile%20views</span>&color=0e75b6&style=flat" alt="waysc" /> </p>
