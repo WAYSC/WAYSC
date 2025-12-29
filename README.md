@@ -46,6 +46,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waysc&show_icons=true&locale=en&layout=compact&theme=radical" alt="waysc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waysc&show_icons=true&locale=en&theme=radical" alt="waysc" /></p>
