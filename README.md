@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#9a7ad4">Hi 👋, I'm Meuky</span></h1>
+<h1 align="center"><span style="color:#9a7ad4">Hi 👋, I'm Yu Churan</span></h1>
 <h3 align="center"><span style="color:#9a7ad4">An AI Programmer👋</span></h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/master/Images/coding.gif" />
@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=waysc&label=Profile%20views&color=9a7ad4&style=flat" alt="waysc" /> 
 </p>
 
-- 🔭 <span style="color:#9a7ad4">I’m currently working on <strong>Machine Learning A-Z™</strong></span>
-- 💬 <span style="color:#9a7ad4">Ask me about <strong>TensorFlow, PyTorch, Matplotlib</strong></span>
+- 🔭 <span style="color:#9a7ad4">Aspiring AI / Applied Computing graduate student.</strong></span>
+- 💬 <span style="color:#9a7ad4">Focused on PyTorch, Deep Learning, and practical ML systems.</strong></span>
 
 <h3 align="left"><span style="color:#9a7ad4">Connect with me: meukywyy@gmail.com</span></h3>
 <p align="left"></p>
