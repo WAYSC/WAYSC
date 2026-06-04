@@ -1,39 +1,118 @@
-<h1 align="center"><span style="color:#9a7ad4">Hi 👋, I'm Yu Churan</span></h1>
-<h3 align="center"><span style="color:#9a7ad4">Applied AI & Machine Learning Learner</span></h3>
+<h1 align="center">👋 Hi, I'm Churan Yu</h1>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/master/Images/coding.gif" />
+<h3 align="center">
+📊 Technical Data Analyst | 🐍 Python | 🗄️ SQL | 🤖 AI Applications
+</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=waysc&label=Profile%20views&color=9a7ad4&style=flat" alt="waysc" /> 
+<p align="center">
+📍 Greater Toronto Area, Canada <br>
+🇨🇦 Canadian Permanent Resident
 </p>
 
-- 🔭 <span style="color:#9a7ad4">Aspiring AI / Applied Computing graduate student.</span>
-- 💬 <span style="color:#9a7ad4">Focused on PyTorch, Deep Learning, and practical ML systems.</span>
+---
 
-<h3 align="left"><span style="color:#9a7ad4">Connect with me: ycr_xgz@outlook.com</span></h3>
-<p align="left"></p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-</p>
+I combine a background in Computer Science, AI research, and software development to build data-driven applications and intelligent systems.
+
+### 💡 Areas of Expertise
+
+- 📈 Data Analytics & Business Intelligence
+- 🐍 Python Development & Automation
+- 🤖 Large Language Model (LLM) Applications
+- 🎯 Recommendation Systems
+- 👁️ Computer Vision & Deep Learning
+
+Currently focused on applying AI and data technologies to solve real-world business problems and create measurable impact.
+
+---
+
+## 🏆 Featured Projects
+
+### 🏠 Toronto Housing Analytics *(In Progress)*
+
+Analyzing rental and housing market trends across the Greater Toronto Area using:
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📉 Data Visualization
+
+---
+
+### 💼 Canada Job Market Analytics *(In Progress)*
+
+Analyzing Canadian job postings to identify:
+
+- 🔍 Most demanded skills
+- 📈 Market trends
+- 🎯 Career insights for Data and Technical roles
+
+---
+
+### 🤖 LLM Resume Matcher *(In Progress)*
+
+Building an AI-powered system that:
+
+- 📄 Matches resumes with job descriptions
+- 🎯 Identifies skill gaps
+- ✨ Generates improvement suggestions
+
+---
+
+## 🔬 Research Highlights
+
+### 🎥 Micro-Action Recognition
+
+- 🥇 First Author, ICME 2025
+- 🧠 Multi-path video understanding framework
+- 🎯 Fine-grained action recognition
+
+### 📚 Recommendation Systems
+
+- Built personalized recommendation systems using:
+  - 🤖 BERT
+  - 🔗 LLM APIs
+  - 📊 User behavior analytics
+
+### 🗣️ LLM Fine-Tuning
+
+- ⚙️ ChatGLM Fine-Tuning
+- 🔧 LoRA / P-Tuning
+- 📚 RAG-based Applications
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+
+Python · SQL · C++ · MATLAB
+
+### 📊 Data & Analytics
+
+Pandas · NumPy · Power BI · Data Visualization
+
+### 🤖 AI / Machine Learning
+
+PyTorch · Scikit-Learn · OpenCV · Transformers
+
+### ⚙️ Tools
+
+Git · Linux · Jupyter Notebook
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:**  
+churanyu20@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/churan-yu/
+
+🌐 **GitHub:**  
+https://github.com/WAYSC
+
+---
+⭐ Always exploring how AI, data, and software can solve real-world problems.
